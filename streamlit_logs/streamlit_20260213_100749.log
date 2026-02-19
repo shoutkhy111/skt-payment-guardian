@@ -1,0 +1,13 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://0.0.0.0:8531
+
+INFO:     Will watch for changes in these directories: ['/mnt/data/user_data/a08806/275']
+ERROR:    [Errno 98] Address already in use
+⚠️ [경고] AI 모듈 로드 실패: cannot import name 'get_azure_chat_model' from 'backend.utils.system_config' (/mnt/data/user_data/a08806/275/backend/utils/system_config.py)
+👉 '시뮬레이션 모드'로 동작합니다. (서버 중단 없음)
+  Stopping...
