@@ -42,6 +42,7 @@ graph LR
     
     Diagnosis -->|Analysis Complete| Alert[Alert Generator]
     Alert -->|MMS & Report| Dashboard[Monitoring UI]
+```
 
 ### 1. 시스템 전체 구조도
 ![시스템 전체 구조도](./images/SKT_payment_guardian_구조.jpg)
