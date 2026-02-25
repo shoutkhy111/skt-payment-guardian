@@ -48,13 +48,13 @@ graph LR
 ![시스템 전체 구조도](./images/SKT_payment_guardian_구조.jpg)
 
 ### 2. Multi-Agent 구성도 (LangGraph)
-![멀티 에이전트 구성도](./images/SKT_payment_guardian_diagram.jpg)    
+![멀티 에이전트 구성도](./images/SKT_payment_guardian_diagram.png)    
 
 
 ## 📸 실행 화면 (ScreenShots)
 
 ### 1. 통합 관제 대시보드 메인 화면
-![대시보드 메인 화면](./images/SKT_payment_guardian_스크린샷1.jpg)
+![대시보드 메인 화면](./images/SKT_payment_guardian_스크린샷1.png)
 
 ### 2. 장애 진단 AI 에이전트 동작(CoT) 로그
-![에이전트 동작 화면](./images/SKT_payment_guardian_스크린샷2.jpg)    
+![에이전트 동작 화면](./images/SKT_payment_guardian_스크린샷2.png)    
